@@ -66,6 +66,13 @@ set autoindent
 set clipboard=unnamedplus
 " 入力モード中に素早くjjと入力する場合ESCとみなす
 inoremap jj <Esc>
+"カッコの補完
+inoremap {<Enter> {}<Left><CR><ESC><S-o>
+inoremap [<Enter> []<Left><CR><ESC><S-o>
+inoremap (<Enter> ()<Left><CR><ESC><S-o>
+"ビープ音を消去
+set visualbell
+
 
 ""vim-pulg系
 
