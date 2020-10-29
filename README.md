@@ -12,4 +12,7 @@ vimのカスタマイズを忘れて大変なことになったので書きま�
 この記事を参考にさせていただきました。
 [Qiita vim-airlineのインストールと使い方](https://original-game.com/vim-airline/)
 
-
+### vimのcolorschemeの変更等について
+---
+この記事を参考にさせていただきました。
+[雑記 BOOOKs](https://yuichon.com/2013/04/vim-colorscheme/)
