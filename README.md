@@ -16,3 +16,12 @@ vimのカスタマイズを忘れて大変なことになったので書きま�
 ---
 この記事を参考にさせていただきました。
 [vimのcolorschemeの変更のやり方](https://yuichon.com/2013/04/vim-colorscheme/)
+
+---
+
+今のお気に入り
+
+### pencil(白)
+
+[pencil_git](https://github.com/reedes/vim-colors-pencil)
+
