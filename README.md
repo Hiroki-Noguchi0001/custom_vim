@@ -15,4 +15,4 @@ vimのカスタマイズを忘れて大変なことになったので書きま�
 ### vimのcolorschemeの変更等について
 ---
 この記事を参考にさせていただきました。
-[雑記 BOOOKs](https://yuichon.com/2013/04/vim-colorscheme/)
+[vimのcolorschemeの変更のやり方](https://yuichon.com/2013/04/vim-colorscheme/)
